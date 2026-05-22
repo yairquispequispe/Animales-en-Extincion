@@ -1,0 +1,31 @@
+.background{
+    background-color: rgb(0, 255, 115);
+}
+.textcenter{
+    text-align: center;
+}
+.textright{
+    text-align: right;
+}
+.imagen{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+      border: 32px solid rgb(35, 5, 116);
+}
+.imagenes{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+      border: 20px solid rgb(207, 5, 214);
+}
+    .imag{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+      border: 25px solid rgb(255, 174, 0);
+}
+p {
+  color: blue;
+  font-size: 16px;
+}
